@@ -31,7 +31,7 @@
 - Вывод таблицы значений
 - Построение графика функции
   
-<img width="196" height="45" alt="Image3" src="https://github.com/user-attachments/assets/5daa8ccb-4c66-435f-b015-296f0e715178" />
+<img width="256" height="83" alt="Image3" src="https://github.com/user-attachments/assets/5daa8ccb-4c66-435f-b015-296f0e715178" />
 
 
 ##  Стек технологий
