@@ -16,12 +16,13 @@
 ### Страница 1: 
 На первой странице реализован расчет математической функции с тремя переменными (x, y, z). Пользователь вводит значения, программа вычисляет результат с проверкой на деление на ноль.
 
-<img width="305" height="86" alt="image" src="https://github.com/user-attachments/assets/2046ed56-3d04-41d7-8a6c-7e490aeb4447" />
+<img width="256" height="83" alt="Image1" src="https://github.com/user-attachments/assets/a91bd1ee-060d-4b0a-a6d0-dc01bb9861a6" />
+
 
 ### Страница 2: 
 На второй странице реализована условная функция, которая выбирает формулу расчета в зависимости от знака произведения x·y. Пользователь также может выбрать тип функции f(x) с помощью кнопок.
 
-<img width="347" height="118" alt="image" src="https://github.com/user-attachments/assets/5da85574-efe5-40b1-935b-a947a47974b0" />
+<img width="341" height="113" alt="Image2" src="https://github.com/user-attachments/assets/b66393ec-98c1-404a-9baf-6833caa2aa5a" />
 
 ### Страница 3:
 На третьей странице реализовано табулирование функции с построением графика:
@@ -30,7 +31,8 @@
 - Вывод таблицы значений
 - Построение графика функции
   
-<img width="228" height="59" alt="image" src="https://github.com/user-attachments/assets/0c236644-52a0-4385-9428-a377a450b9a7" />
+<img width="196" height="45" alt="Image3" src="https://github.com/user-attachments/assets/5daa8ccb-4c66-435f-b015-296f0e715178" />
+
 
 ##  Стек технологий
 
